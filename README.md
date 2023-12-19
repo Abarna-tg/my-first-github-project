@@ -1,6 +1,5 @@
-# my-first-github-project
-this is my first git repository
+This line was replace in feature-2 branch
 
-This line was modified manually during conflits resolution
+This file was modified locally 
 
-New line was added locally
+New line was added in feature-2
